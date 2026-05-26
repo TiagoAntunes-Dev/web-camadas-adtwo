@@ -153,14 +153,9 @@ O código esta em um repositório público no GitHub: `TiagoAntunes-Dev/crud-api
 ### 3.3 Configurando as variáveis de ambiente
 
 Na seção **Environment Variables** do formulário, adicionei as mesmas variáveis que estavam no `.env` local:
-
-| Chave | O que é |
-|---|---|
-| `MONGO_URI` | A connection string do MongoDB Atlas (configurado no ADO 1) |
-| `PORT` | 4000 |
+<br>
 
 <p align="center">
-
 <img width="730" height="354" alt="image" src="https://github.com/user-attachments/assets/17e7cf8c-1f9b-4c2c-b17e-d69169209a4b" />
 </p>
 

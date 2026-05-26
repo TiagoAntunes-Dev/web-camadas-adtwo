@@ -193,9 +193,37 @@ https://crud-api-products.onrender.com/api/products
 
 A API retornou os produtos cadastrados no MongoDB Atlas — os mesmos Pancake, Donut e Cannoli do banco remoto:
 
-<p align="center">
-  <img src="INSIRA-PRINT-RESPOSTA-URL-PUBLICA" alt="Resposta da API na URL pública" />
-</p>
+```
+[
+    {
+        "_id": "69d93241296cee67d93fd734",
+        "name": "Pancake",
+        "quantity": 20,
+        "price": 3.99,
+        "createdAt": "2026-04-10T17:24:17.401Z",
+        "updatedAt": "2026-04-10T17:24:17.401Z",
+        "__v": 0
+    },
+    {
+        "_id": "69d93272296cee67d93fd735",
+        "name": "Donut",
+        "quantity": 40,
+        "price": 1.99,
+        "createdAt": "2026-04-10T17:25:06.462Z",
+        "updatedAt": "2026-04-10T17:25:06.462Z",
+        "__v": 0
+    },
+    {
+        "_id": "69d945b0fde29af92a26e7fb",
+        "name": "Cannoli",
+        "quantity": 23,
+        "price": 2.25,
+        "createdAt": "2026-04-10T18:47:12.229Z",
+        "updatedAt": "2026-04-10T18:47:12.229Z",
+        "__v": 0
+    }
+]
+```
 
 ---
 

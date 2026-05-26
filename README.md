@@ -63,7 +63,16 @@ O `.env` nunca vai ao GitHub — está listado no `.gitignore`. Isso significa q
 
 ### Terminal com o servidor rodando localmente
 
-> 📸 [INSIRA AQUI: print do terminal com npm run dev mostrando ✅ Connected to Database! e Server is running on port 4000]
+```
+C:\Users\tiago\OneDrive\Documentos\VsCode Journey Begin's\Curso em Video\HTML\crud-api-products>npm run start
+
+> crud-api-express@1.0.0 start
+> node index.js
+
+◇ injected env (2) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+✅ Connected to Database!
+ Server is running on port 4000
+```
 
 ---
 

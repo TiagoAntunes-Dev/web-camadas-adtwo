@@ -177,10 +177,6 @@ Server is running on port 4000
 ==> Available at your primary URL https://crud-api-products.onrender.com
 ```
 
-<p align="center">
-  <img width="1465" height="729" alt="image" src="https://github.com/user-attachments/assets/0108fb89-a265-4411-bd45-274ccfdf52e1" />
-</p>
-
 O painel do Render mostrou o serviço com status **Live**:
 
 <p align="center">

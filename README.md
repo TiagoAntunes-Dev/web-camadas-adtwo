@@ -259,11 +259,6 @@ Se o `MONGO_URI` tivesse qualquer erro — senha errada, nome do cluster incorre
 
 O servidor não subiria, o Render marcaria o deploy como falho e os logs mostrariam o erro. A API não responderia em nenhuma rota — qualquer requisição retornaria erro 502 (Bad Gateway) porque o processo Node.js não estaria rodando.
 
-### Erros encontrados e como resolvi
-
-**Erro: "spin down with inactivity"**  
-Logo após o deploy, o Render exibiu um aviso informando que o plano gratuito hiberna após inatividade, podendo causar delay de 50 segundos ou mais na primeira requisição depois de um período sem uso. Isso não é um erro que precisei resolver — é uma limitação do plano gratuito que documentei para entender o comportamento da API em produção. A solução seria fazer um upgrade para um plano pago, o que não é necessário para um projeto de estudos.
-
 **Observação sobre a branch:**  
 O repositório estava na branch `develop` ao invés de `main`. O Render conectou normalmente à branch `develop` — qualquer push nessa branch dispara um novo deploy automaticamente.
 

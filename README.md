@@ -178,13 +178,13 @@ Server is running on port 4000
 ```
 
 <p align="center">
-  <img src="INSIRA-PRINT-LOGS-DEPLOY" alt="Logs do deploy no Render" />
+  <img width="1465" height="729" alt="image" src="https://github.com/user-attachments/assets/0108fb89-a265-4411-bd45-274ccfdf52e1" />
 </p>
 
 O painel do Render mostrou o serviço com status **Live**:
 
 <p align="center">
-  <img src="INSIRA-PRINT-PAINEL-LIVE" alt="Painel do Render com status Live" />
+  <img width="736" height="287" alt="image" src="https://github.com/user-attachments/assets/4a52c4ec-62b3-4bd8-b630-d962938ef111" />
 </p>
 
 ### 3.5 Requisição para a URL pública

@@ -130,9 +130,7 @@ Antes do deploy, verifiquei que o `package.json` tinha o script `start` correto 
 }
 ```
 
-O código estava em um repositório público no GitHub: `TiagoAntunes-Dev/crud-api-products`.
-
-> 📸 [INSIRA AQUI: print do repositório no GitHub mostrando os arquivos da API]
+O código esta em um repositório público no GitHub: `TiagoAntunes-Dev/crud-api-products`.
 
 ### 3.2 Criando o Web Service no Render
 
@@ -161,7 +159,10 @@ Na seção **Environment Variables** do formulário, adicionei as mesmas variáv
 | `MONGO_URI` | A connection string do MongoDB Atlas (configurado no ADO 1) |
 | `PORT` | 4000 |
 
-> 📸 [INSIRA AQUI: print da seção Environment Variables com as chaves visíveis]
+<p align="center">
+
+<img width="730" height="354" alt="image" src="https://github.com/user-attachments/assets/17e7cf8c-1f9b-4c2c-b17e-d69169209a4b" />
+</p>
 
 ### 3.4 Deploy concluído
 

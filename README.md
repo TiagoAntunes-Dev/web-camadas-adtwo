@@ -148,8 +148,6 @@ O código esta em um repositório público no GitHub: `TiagoAntunes-Dev/crud-api
 | Start Command | `node index.js` |
 | Instance Type | Free |
 
-> 📸 [INSIRA AQUI: print do formulário de configuração preenchido no Render]
-
 ### 3.3 Configurando as variáveis de ambiente
 
 Na seção **Environment Variables** do formulário, adicionei as mesmas variáveis que estavam no `.env` local:
